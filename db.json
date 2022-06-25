@@ -79,10 +79,6 @@
         {
             "id": "4",
             "location": "Italy"
-        },
-        {
-            "id": "5",
-            "location": "Turkey"
         }
     ],
     "trips": [
@@ -150,15 +146,6 @@
             "location": "Spain"
         },
         {
-            "id": "8",
-            "title": "Numa Bay Exclusive Hotel",
-            "description": "Nunc quis velit arcu. Curabitur consequat elit eu mi cursus porttitor. Quisque aliquam ex ac risus ultrices, in mattis tellus ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer quam sem, dapibus ac pharetra eu, sodales sed felis. In quis finibus dui, et tincidunt erat. Integer semper nisi ut purus elementum, ac efficitur magna tristique. Pellentesque cursus posuere lorem ac hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut egestas laoreet justo a viverra. In quis sapien at sem faucibus porta. Pellentesque vestibulum purus quis dapibus luctus. Aliquam nec posuere sapien.",
-            "board": "All inclusive plus",
-            "accommodation": "Double Room",
-            "price": "2,719",
-            "location": "Turkey"
-        },
-        {
             "id": "9",
             "title": "Lindos Grand Resort and Spa",
             "description": "Mauris nisl arcu, placerat vitae leo quis, molestie dignissim orci. Aenean ultricies, turpis ac volutpat venenatis, lectus mi iaculis augue, at commodo leo nisl id arcu. Nulla suscipit est nunc, ac tincidunt magna maximus in. Duis et commodo nisi, eu mattis orci. Pellentesque luctus purus ac urna varius fringilla. Vivamus consectetur posuere dignissim. Mauris egestas ullamcorper ex, vel elementum dolor.",
@@ -166,15 +153,6 @@
             "accommodation": "Standard Double Room",
             "price": "4,296",
             "location": "Greece"
-        },
-        {
-            "id": "10",
-            "title": "Paloma Perissia",
-            "description": "Nullam elementum tellus vel turpis cursus mattis. Curabitur elit nibh, venenatis a lacinia in, ultricies tincidunt tellus. Praesent in rhoncus odio. Donec dui augue, pharetra sed ex sed, congue aliquam tortor. Aliquam iaculis tristique nunc, non dapibus mi fringilla vel. Pellentesque sit amet molestie risus, non finibus leo. Integer hendrerit massa at posuere ullamcorper. Maecenas metus dui, egestas sit amet justo ut, gravida dignissim ipsum.",
-            "board": "All inclusive",
-            "accommodation": "Double Room",
-            "price": "3,926",
-            "location": "Turkey"
         }
     ]
 }
