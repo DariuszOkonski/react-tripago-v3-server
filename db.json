@@ -75,10 +75,6 @@
         {
             "id": "3",
             "location": "Cyprus"
-        },
-        {
-            "id": "4",
-            "location": "Italy"
         }
     ],
     "trips": [
@@ -127,15 +123,7 @@
             "price": "4,154",
             "location": "Greece"
         },
-        {
-            "id": "6",
-            "title": "Art Hotel Gran Paradiso",
-            "description": "Nulla tempor augue ut arcu porta aliquet nec nec ex. In tempus eget ligula et fermentum. Fusce fermentum placerat vulputate. Nunc vitae ante et lectus placerat bibendum sit amet in massa. Maecenas ac nulla in ex iaculis faucibus at non dolor. Vestibulum imperdiet neque nisl, eget accumsan arcu fringilla at. Sed sed porta ipsum, vel commodo erat. Phasellus quis libero lorem.",
-            "board": "Half Board",
-            "accommodation": "Double Room",
-            "price": "2,943",
-            "location": "Italy"
-        },
+        
         {
             "id": "7",
             "title": "Catalonia del Mar",
