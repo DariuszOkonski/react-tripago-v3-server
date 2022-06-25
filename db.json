@@ -81,7 +81,7 @@
         {
             "id": "1",
             "title": "Alua Soul Mallorca Resort",
-            "description": "Pellentesque a libero at lectus tincidunt facilisis quis sit amet leo. Phasellus ac congue lorem. Suspendisse vel est eget elit ultrices ornare. Nunc accumsan justo tincidunt iaculis consequat. Morbi elit massa, auctor sit amet elit tincidunt, viverra elementum nunc. Pellentesque ut ipsum eget neque accumsan varius eu a felis. Donec quis ante velit. Vivamus odio mi, vulputate et pulvinar vel, dapibus eu nulla. Nulla ac metus nec risus vehicula rutrum at quis turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae mauris suscipit, ullamcorper eros eu, ultrices magna. Ut lacinia odio at urna vehicula, eget rhoncus dolor ultrices. Nunc vitae fermentum lectus. In sit amet enim viverra, porttitor ligula a, auctor lacus. Integer eget felis eu odio pharetra luctus.",
+            "description": "Pellentesque a libero at lectus tincidunt facilisis quis sit amet leo. 
             "board": "Half Board",
             "accommodation": "Double Room With Sea View",
             "price": "2,659",
@@ -90,7 +90,7 @@
         {
             "id": "2",
             "title": "Eden Roc Resort Hotel",
-            "description": "Nam in ante est. Nam feugiat risus eu arcu euismod, sit amet euismod dolor consequat. In at neque eget massa rhoncus posuere et id lorem. Proin sed magna est. Nullam a aliquet nulla. Suspendisse vel posuere mi, eget commodo enim. Ut iaculis, est eget congue commodo, nulla orci lobortis sem, at rutrum arcu dui sollicitudin ante. Suspendisse potenti. Nullam porttitor id sapien ut auctor. Curabitur quis mattis libero. Curabitur at scelerisque tellus, ac suscipit massa. Vestibulum a nisl velit. Sed interdum fermentum ipsum, id interdum sapien iaculis sit amet. Nullam molestie dui malesuada volutpat rutrum. Praesent tempor quam at lectus malesuada efficitur. Sed eu auctor leo.",
+            "description": "Nam in ante est. Nam feugiat risus eu arcu euismod, sit amet euismod dolor consequat.
             "board": "All Inclusive",
             "accommodation": "Double Room With Sea View",
             "price": "3,799",
@@ -99,7 +99,7 @@
         {
             "id": "3",
             "title": "Amanti MadeForTwo Hotels Ayia Napa",
-            "description": "Morbi dapibus a diam a molestie. Quisque nibh libero, pellentesque nec blandit consectetur, cursus tempor velit. Aliquam quis nunc eros. Sed pellentesque elementum orci, nec vehicula ligula auctor at. Etiam gravida bibendum velit, fermentum tincidunt magna feugiat quis. Nulla facilisi. Maecenas condimentum interdum odio, quis feugiat tortor convallis venenatis. Vestibulum vestibulum mauris sed justo auctor suscipit. Aliquam vitae aliquet quam, vitae laoreet ipsum. Quisque vitae tortor eu tellus pulvinar ullamcorper non eleifend odio.",
+            "description": "Morbi dapibus a diam a molestie. Quisque nibh libero, pellentesque nec blandit consectetur, 
             "board": "Half board plus",
             "accommodation": "Deluxe Double Room With Inland View",
             "price": "3,740",
@@ -108,7 +108,7 @@
         {
             "id": "4",
             "title": "Alua Calas de Mallorca Resort",
-            "description": "Aenean posuere ultricies sem, eget bibendum turpis ultrices non. Quisque sit amet tempus elit. Nullam sodales orci non nisl gravida dictum quis eu massa. Etiam placerat, magna sed tincidunt fermentum, lacus augue molestie quam, a vulputate tellus leo sit amet est. Proin vulputate, sem ut finibus tempor, ante mi ornare sem, vitae sagittis arcu tellus sed ligula. Nunc ac odio quis nisi congue blandit. Duis et aliquet felis, varius molestie leo. Vivamus ut augue felis. Sed vel est congue, consectetur diam non, tincidunt massa. Morbi vehicula consectetur tortor ac aliquam. Fusce id finibus lectus, at facilisis lacus. Vivamus vitae turpis lacinia, ultricies mauris sed, rutrum tellus. Suspendisse condimentum dui et venenatis sodales. Vivamus sit amet tellus euismod, interdum velit non, dapibus nulla.",
+            "description": "Aenean posuere ultricies sem, eget bibendum turpis ultrices non. Quisque sit amet tempus elit. 
             "board": "All Inclusive",
             "accommodation": "Double Room With Sea View",
             "price": "2,386",
@@ -117,7 +117,7 @@
         {
             "id": "5",
             "title": "Grecotel Eva Palace",
-            "description": "Vivamus et luctus metus. Mauris tortor nisi, vestibulum id lectus rutrum, mattis porta tellus. Mauris eu ex lectus. Integer elementum massa vel efficitur maximus. Integer ut odio eu nunc semper luctus sed aliquet purus. Mauris at elementum justo, in auctor leo. Donec tempor tortor ex, in sodales augue luctus at. Fusce viverra, enim vitae mollis ornare, quam tortor iaculis nisl, vel lacinia tortor justo eget felis. Nunc id felis eu eros sagittis vestibulum in ultrices sapien.",
+            "description": "Vivamus et luctus metus. Mauris tortor nisi, vestibulum id lectus rutrum, mattis porta tellus. 
             "board": "Half Board",
             "accommodation": "Double Room",
             "price": "4,154",
@@ -127,7 +127,7 @@
         {
             "id": "7",
             "title": "Catalonia del Mar",
-            "description": "Aenean porttitor mauris et sapien vestibulum, vitae molestie ipsum ultricies. Ut mollis accumsan justo, vel ullamcorper nunc vestibulum in. Suspendisse venenatis ullamcorper dolor, at faucibus massa lobortis et. Nunc nec ante id elit posuere scelerisque. Curabitur et orci fermentum, tincidunt purus vitae, placerat mi. Integer erat arcu, fringilla eget erat quis, gravida iaculis turpis. Cras rhoncus nisl venenatis pretium vestibulum.",
+            "description": "Aenean porttitor mauris et sapien vestibulum, vitae molestie ipsum ultricies. Ut mollis accumsan justo, 
             "board": "Half Board",
             "accommodation": "Double Room",
             "price": "1,750",
@@ -136,7 +136,7 @@
         {
             "id": "9",
             "title": "Lindos Grand Resort and Spa",
-            "description": "Mauris nisl arcu, placerat vitae leo quis, molestie dignissim orci. Aenean ultricies, turpis ac volutpat venenatis, lectus mi iaculis augue, at commodo leo nisl id arcu. Nulla suscipit est nunc, ac tincidunt magna maximus in. Duis et commodo nisi, eu mattis orci. Pellentesque luctus purus ac urna varius fringilla. Vivamus consectetur posuere dignissim. Mauris egestas ullamcorper ex, vel elementum dolor.",
+            "description": "Mauris nisl arcu, placerat vitae leo quis, molestie dignissim orci. Aenean ultricies, turpis ac volutpat venenatis, 
             "board": "Bed and Breakfast",
             "accommodation": "Standard Double Room",
             "price": "4,296",
