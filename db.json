@@ -175,51 +175,6 @@
             "accommodation": "Double Room",
             "price": "3,926",
             "location": "Turkey"
-        },
-        {
-            "id": "11",
-            "title": "Domus Sessoriana",
-            "description": "Fusce efficitur ligula nulla, et tempor ex egestas ac. Praesent malesuada metus nec tellus fringilla dictum. Proin sit amet orci et arcu elementum eleifend. Vestibulum condimentum tempus nulla, vel consectetur est dapibus ac. Suspendisse ante diam, porttitor sed aliquet ut, finibus eu tellus. Donec rhoncus vitae ligula a congue. Ut suscipit arcu est, sed fringilla nisi eleifend non. Pellentesque elementum, turpis sed feugiat tristique, justo libero tempor quam, eu rutrum dolor est vitae odio. Aliquam erat volutpat. Curabitur tempor non tellus sodales auctor. Vivamus aliquam quis sapien ac tempus. Sed iaculis aliquet lacus sed pretium. Vestibulum et dui suscipit, vehicula sem at, pulvinar metus. Vivamus ullamcorper sit amet nunc id porttitor.",
-            "board": "Bed and Breakfast",
-            "accommodation": "Double Or Twin Standard",
-            "price": "1,508",
-            "location": "Italy"
-        },
-        {
-            "id": "12",
-            "title": "Klima Hotel Milano Fiere",
-            "description": "Vivamus suscipit ac sem consequat sodales. Duis nisl ipsum, convallis id luctus vitae, aliquet nec nunc. Suspendisse egestas turpis a commodo elementum. Nulla facilisi. Morbi ut molestie metus, vitae commodo tortor. Nunc vitae magna facilisis ligula pellentesque bibendum sit amet ac mauris. Mauris id ultrices felis, a posuere erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam gravida aliquam sodales. Vestibulum nisi arcu, pretium et elit eget, vehicula cursus libero. Vestibulum in sodales dolor, vitae dignissim elit. Morbi placerat sollicitudin purus, in molestie turpis fringilla id. Duis ornare euismod felis et ornare. Pellentesque id egestas velit, viverra malesuada est. Ut vitae condimentum risus.",
-            "board": "Bed and Breakfast",
-            "accommodation": "Double Standard",
-            "price": "795",
-            "location": "Italy"
-        },
-        {
-            "id": "13",
-            "title": "Eurostars Monte Tauro",
-            "description": "Maecenas at rutrum justo. Proin dictum, dui sit amet pretium dignissim, sem nisi efficitur orci, sit amet vulputate massa turpis fringilla nibh. Quisque fermentum purus rutrum dapibus euismod. Pellentesque risus turpis, pellentesque non tortor in, vestibulum laoreet ligula. Nam sagittis massa eros, condimentum euismod sapien scelerisque sit amet. Pellentesque feugiat metus a nisi aliquam, sed suscipit eros finibus. Cras sollicitudin ultrices lacus, vitae sagittis justo molestie id. Nulla quis pulvinar mauris. Donec ac rutrum nisi. Cras a eleifend lorem. Phasellus fermentum massa eget felis vulputate, cursus viverra nulla mollis. Mauris sagittis aliquet nisi varius imperdiet. Integer sed ante leo. Etiam tempor ultrices tellus eget sollicitudin. Donec lacinia felis placerat euismod vestibulum. Nam facilisis a orci a consectetur.",
-            "board": "Bed and Breakfast",
-            "accommodation": "Double Standard",
-            "price": "3,067",
-            "location": "Italy"
-        },
-        {
-            "id": "14",
-            "title": "BH Mallorca Resort Affiliated by Fergus",
-            "description": "Vestibulum eget sollicitudin nunc. Donec sollicitudin ligula eget leo sagittis semper. Mauris porta leo et mi condimentum, non sodales urna malesuada. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam erat volutpat. Etiam tempus mi id posuere ullamcorper. In ullamcorper hendrerit ligula, tincidunt tincidunt tortor semper in. Sed et nisi eu magna auctor venenatis iaculis at nisl. Proin sed lacus nec ante eleifend placerat vel vitae turpis. Praesent mi est, malesuada et maximus in, accumsan sit amet odio. Mauris quis auctor lacus, ut dignissim elit. Sed at condimentum eros.",
-            "board": "All Inclusive",
-            "accommodation": "Suite",
-            "price": "2,579",
-            "location": "Spain"
-        },
-        {
-            "id": "15",
-            "title": "Leonardo Plaza Cypria Maris Beach Hotel and Spa",
-            "description": "Maecenas vulputate vulputate mi, eu varius mauris pretium sed. Ut ultricies enim vitae erat faucibus consectetur. Nunc gravida laoreet volutpat. Quisque non sodales augue, non iaculis libero. Ut rhoncus turpis sed libero tempus aliquet. Mauris ante tortor, fermentum iaculis magna ac, mattis tincidunt dui. Integer felis urna, ullamcorper sit amet nunc at, sollicitudin lobortis felis. Donec congue odio et dolor lobortis consequat. Cras ornare vitae lacus sed consectetur. Duis dictum ipsum at finibus sagittis.",
-            "board": "All Inclusive",
-            "accommodation": "Double Room",
-            "price": "3,173",
-            "location": "Cyprus"
         }
     ]
 }
